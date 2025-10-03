@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Spesial",
+      "price": 25000,
+      "category": "makanan",
+      "description": "Nasi goreng dengan telur, ayam, dan sayuran segar",
+      "image": "images/nasi-goreng.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mie Ayam Bakso",
+      "price": 20000,
+      "category": "makanan",
+      "description": "Mie ayam dengan bakso sapi pilihan",
+      "image": "images/mie-ayam.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Es Teh Manis",
+      "price": 5000,
+      "category": "minuman",
+      "description": "Es teh segar dengan gula pasir",
+      "image": "images/es-teh.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jus Alpukat",
+      "price": 15000,
+      "category": "minuman",
+      "description": "Jus alpukat segar dengan susu dan gula aren",
+      "image": "images/jus-alpukat.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kerupuk",
+      "price": 3000,
+      "category": "snack",
+      "description": "Kerupuk udang renyah",
+      "image": "images/kerupuk.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gado-gado",
+      "price": 18000,
+      "category": "makanan",
+      "description": "Sayuran segar dengan bumbu kacang spesial",
+      "image": "images/gado-gado.jpg"
+    }
+  ]
+}
